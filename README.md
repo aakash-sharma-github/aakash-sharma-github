@@ -1,10 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>
-👯 I’m looking to collaborate on <br>
-🤝 I’m looking for help with <br>
-🌱 I’m currently learning <br>
-💬 Ask me about <br>
-⚡ Fun fact
+🔭 I’m currently working on some exciting projects. <br>
+🌱 I’m currently learning Next.js. <br>
+💬 Ask me about The Universe. <br>
+⚡ Fun fact: The universe was born.
 
 
 ## 🌐 Socials:
